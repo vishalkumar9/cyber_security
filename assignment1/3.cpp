@@ -1,3 +1,7 @@
+/*
+Write a C/C++ program that lists down all the prime numbers in a range between a and b, where a and
+b are two whole numbers.
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
