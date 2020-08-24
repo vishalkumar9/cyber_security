@@ -18,5 +18,5 @@ int main(){
     }
      cout<<"successfully done\n";
     cout<<s;
-   
+   return 0;
 }
