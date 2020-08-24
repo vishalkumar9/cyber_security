@@ -1,3 +1,9 @@
+/*
+You are given a string (you need to take it input from user), the task is to encrypt this string
+using # and $ symbols, alternatively. While encrypting the message the encrypted format must repeat
+the symbol as many times as the letter position in alphabetical order (consider the string as case
+insensitive).
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
@@ -12,4 +18,5 @@ int main(){
          for(int j=1;j<=k;j++){
             cout<<ch;
          }
+         return 0;
      }
