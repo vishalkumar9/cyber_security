@@ -18,5 +18,5 @@ int main(){
        if(prime[i]==0)
        cout<<i<<" ";
    }
-
+  return 0;
 }
