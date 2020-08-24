@@ -15,5 +15,6 @@ int main(){
      }
    if(f==1)cout<<"STRING IS NOT PALINDROME";
    else cout<<"STRING IS PALINDROME";
+    return 0;
 }
 
